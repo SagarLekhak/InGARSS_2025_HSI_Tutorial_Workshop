@@ -71,7 +71,7 @@ class_map_envi.hdr
 
 
 **Objective:**  
-Detect the red target present in the hyperspectral scene using classical statistical algorithms.
+Detect the red targets in the hyperspectral scene using classical statistical algorithms in both the spectral and PCA-reduced spaces, and compare their performance using ROC curves.
 
 ---
 
