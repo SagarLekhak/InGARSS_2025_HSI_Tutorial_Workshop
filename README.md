@@ -111,7 +111,7 @@ This repository serves as:
 
 ## 📢 Presentation
 
-This tutorial will be presented at **IGARSS 2025 — IEEE India Geoscience and Remote Sensing Symposium** in **Bhubaneswar, India**, on **10 December 2025**, by **Prof. Dr. Emmett J. Ientilucci**.
+This tutorial will be presented at **InGARSS 2025 — IEEE India Geoscience and Remote Sensing Symposium** in **Bhubaneswar, India**, on **10 December 2025**, by **Prof. Dr. Emmett J. Ientilucci**.
 
 ---
 
